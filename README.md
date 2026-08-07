@@ -52,10 +52,10 @@ npm run dev
 
 ---
 
-## 📂 项目结构
+## 📂 源代码项目结构
 
 ```
-knowledge-hub/
+source-code/
 ├── client/                       # React 前端 (Vite + TailwindCSS)
 │   ├── index.html                # SPA 入口 HTML
 │   ├── package.json              # 前端依赖与脚本
